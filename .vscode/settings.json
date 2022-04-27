@@ -19,6 +19,6 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#215732",
-    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontSize": 18,
     "editor.fontSize": 16
 }
